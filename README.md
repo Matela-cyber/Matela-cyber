@@ -11,8 +11,8 @@
   
 - **Web(HTML,CSS,JS)**
    - [Web based HTML JavaScript Calculator able to perform complex "BODMAS"  calculations ](https://github.com/Matela-cyber/calculator)
-   - [A web-based Point of Sale system tailored for KFC outlets, Using HTML, CSS and JavaScript](https://github.com/Matela-cyber/KFC-POS) 
-   - [Streamlining electricity service applications and billing, using realtime firebase database](https://github.com/Matela-cyber/electricity-registeration-and-billing-system)
+   - [Streamlining electricity service applications and billing, using realtime Firebase(NoSql) for Database](https://github.com/Matela-cyber/electricity-registeration-and-billing-system)
+   - [A web-based Point of Sale system tailored for KFC outlets](https://github.com/Matela-cyber/KFC-POS) 
 
 - **React Native**  
   - [A React Native application inspired by Facebook's core features](https://github.com/Matela-cyber/facebookClone)
