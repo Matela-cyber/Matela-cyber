@@ -6,32 +6,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- **Electricity Registration and Billing System**  
-  [Streamlining electricity service applications and billing](https://github.com/Matela-cyber/electricity-registeration-and-billing-system)
+- **JavaFX**  
+  - [JavaFX-based academic reporting system with roles-based functionalities](https://github.com/Matela-cyber/academic-reporting-system)
+  
+- **Web(HTML,CSS,JS)**
+   - [Web based HTML JavaScript Calculator able to perform complex "BODMAS"  calculations ](https://github.com/Matela-cyber/calculator)
+   - [A web-based Point of Sale system tailored for KFC outlets, Using HTML, CSS and JavaScript](https://github.com/Matela-cyber/KFC-POS) 
+   - [Streamlining electricity service applications and billing, using realtime firebase database](https://github.com/Matela-cyber/electricity-registeration-and-billing-system)
 
-- **Facebook Clone**  
-  [A React Native application inspired by Facebook's core features](https://github.com/Matela-cyber/facebookClone)
+- **React Native**  
+  - [A React Native application inspired by Facebook's core features](https://github.com/Matela-cyber/facebookClone)
+  - [Beginner project exploring the fundamentals of React Native](https://github.com/Matela-cyber/Intro-to-react-native)
 
-- **Intro to React Native**  
-  [Beginner project exploring the fundamentals of React Native](https://github.com/Matela-cyber/Intro-to-react-native)
+- **C++**  
+  - [School Management System. A console-based application developed in C++ and uses PostgreSQL DBMS to manage various administrative and academic functions of a school](https://github.com/Matela-cyber/School-Management-System)
+  - [Book Store Management System. A console-based application developed in C++ and uses MySQL DBMS for managing bookstore operations](https://github.com/Matela-cyber/Book-store-system)
 
-- **Academic Reporting System**  
-  [JavaFX-based academic management system with roles-based functionalities](https://github.com/Matela-cyber/academic-reporting-system)
 
-- **School Management System**  
-  [A console-based application developed in C++ and uses PostgreSQL DBMS to manage various administrative and academic functions of a school](https://github.com/Matela-cyber/School-Management-System)
-
-- **Calculator**  
-  [Web based HTML JavaScript Calculator able to perform complex "BODMAS"  calculations ](https://github.com/Matela-cyber/calculator)
-
-- **KFC Point of Sale (POS) System**  
-  [A web-based Point of Sale system tailored for KFC outlets, Using HTML, CSS and JavaScript](https://github.com/Matela-cyber/KFC-POS)
-
-- **Book Store Management System**  
-  [A console-based application developed in C++ and uses MySQL DBMS for managing bookstore operations](https://github.com/Matela-cyber/Book-store-system)
-
-- **Academic Reporting System**  
-  [JavaFX-based academic management system with roles-based functionalities](https://github.com/Matela-cyber/academic-reporting-system)
 
 <h2>🤳 Connect with Me:</h2>
 
