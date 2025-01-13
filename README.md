@@ -1,7 +1,7 @@
 <h1>Hi, I'm Vicent Matela!<br/>
 <a href="https://github.com/Matela-cyber">Programmer</a>, 
 <a href="https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/">Software Engineer</a>, 
-<a href="https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT?usp=sharing">and Multimedia Specialist</a>
+<a href="https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT?usp=sharing">and Multimedia Technician(Adobe)</a>
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
