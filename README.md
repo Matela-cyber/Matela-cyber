@@ -18,6 +18,21 @@
 - **Academic Reporting System**  
   [JavaFX-based academic management system with roles-based functionalities](https://github.com/Matela-cyber/academic-reporting-system)
 
+- **School Management System**  
+  [A console-based application developed in C++ and uses PostgreSQL DBMS to manage various administrative and academic functions of a school](https://github.com/Matela-cyber/School-Management-System)
+
+- **Calculator**  
+  [Web based HTML JavaScript Calculator able to perform complex "BODMAS"  calculations ](https://github.com/Matela-cyber/calculator)
+
+- **KFC Point of Sale (POS) System**  
+  [A web-based Point of Sale system tailored for KFC outlets, Using HTML, CSS and JavaScript](https://github.com/Matela-cyber/KFC-POS)
+
+- **Book Store Management System**  
+  [A console-based application developed in C++ and uses MySQL DBMS for managing bookstore operations](https://github.com/Matela-cyber/Book-store-system)
+
+- **Academic Reporting System**  
+  [JavaFX-based academic management system with roles-based functionalities](https://github.com/Matela-cyber/academic-reporting-system)
+
 <h2>🤳 Connect with Me:</h2>
 
 [<img align="left" alt="Vicent Matela | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/)
