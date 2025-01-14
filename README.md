@@ -29,3 +29,4 @@
 [<img align="left" alt="Vicent Matela | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/)
 [<img align="left" alt="Vicent Matela | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Matela-cyber)
 [<img align="left" alt="Vicent Matela | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />](https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT?usp=sharing)
+[<img align="left" alt="Vicent Matela | WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/26659510068)
