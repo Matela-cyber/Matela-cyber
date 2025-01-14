@@ -14,7 +14,7 @@
    - [Streamlining electricity service applications and billing, using realtime Firebase(NoSql) for Database](https://github.com/Matela-cyber/electricity-registeration-and-billing-system)
    - [A web-based Point of Sale system tailored for KFC outlets](https://github.com/Matela-cyber/KFC-POS) 
 
-- **React Native**  
+- **React Native(Mobile Apps)**  
   - [A React Native application inspired by Facebook's core features](https://github.com/Matela-cyber/facebookClone)
   - [Beginner project exploring the fundamentals of React Native](https://github.com/Matela-cyber/Intro-to-react-native)
 
