@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - **JavaFX**  
-  - [JavaFX-based academic reporting system with roles-based functionalities](https://github.com/Matela-cyber/academic-reporting-system)
+  - [JavaFX-based academic reporting system with roles-based functionalities](https://github.com/Matela-cyber/reporting-system)
   
 - **Web(HTML,CSS,JS)**
    - [Web based HTML JavaScript Calculator able to perform complex "BODMAS"  calculations ](https://github.com/Matela-cyber/calculator)
