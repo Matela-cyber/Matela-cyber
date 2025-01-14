@@ -19,8 +19,8 @@
   - [Beginner project exploring the fundamentals of React Native](https://github.com/Matela-cyber/Intro-to-react-native)
 
 - **C++**  
-  - [School Management System. A console-based application developed in C++ and uses PostgreSQL DBMS to manage various administrative and academic functions of a school](https://github.com/Matela-cyber/School-Management-System)
-  - [Book Store Management System. A console-based application developed in C++ and uses MySQL DBMS for managing bookstore operations](https://github.com/Matela-cyber/Book-store-system)
+  - [School Management System. A console-based application developed in OOP C++ and uses PostgreSQL DBMS to manage various administrative and academic functions of a school](https://github.com/Matela-cyber/School-Management-System)
+  - [Book Store Management System. A console-based application developed in OPP C++ and uses MySQL DBMS for managing bookstore operations](https://github.com/Matela-cyber/Book-store-system)
 
 
 
