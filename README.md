@@ -76,11 +76,3 @@ These were created during learning and university years and are kept for referen
 - Portfolio / Drive: https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT
 - WhatsApp: https://wa.me/26659510068
 
----
-
-If you’d like, I can:
-1. Replace any featured item with a different repo or a short description you prefer.
-2. Move older/student projects into a separate ARCHIVE.md file and keep the README focused on current work.
-3. Add screenshots or badges to each featured project if you provide images or want me to extract them from the repos.
-
-(Committed by GitHub Copilot — I selected recent, public repos from your account to highlight. Tell me if you want different ones or different wording.)
