@@ -1,78 +1,146 @@
-# Vicent Matela — Software Engineer
+# 👋 Vicent Matela — Full-Stack Software Engineer
 
-Hi — I’m Vicent (Matela). I am a software engineer and recent graduate with experience building full-stack web applications, mobile apps, and tooling. I build production-focused projects using modern JavaScript/TypeScript stacks, and I also have experience with desktop apps and systems programming from earlier university work.
+> Building production-focused web and mobile applications with modern tech stacks
 
----
-
-## Selected skills
-
-- Languages & frameworks: TypeScript, JavaScript, React, React Native, Java, JavaFX, C++
-- Databases & services: Firebase (NoSQL), PostgreSQL, MySQL
-- Tools: Git, Vercel, Android tooling, Adobe Creative Suite
-- Focus areas: full‑stack web development, mobile apps, UI/UX, and system design
+I'm a software engineer and recent graduate passionate about creating elegant, scalable solutions. My focus is on full-stack development, mobile apps, and thoughtful UI/UX design. Every project I build prioritizes user experience and maintainable code.
 
 ---
 
-## Featured projects
+## 🛠️ Technical Skills
 
-I’ve included recent and production-oriented work below. These repos show my current skillset and the kind of work I’m focused on after graduation.
+**Languages & Frameworks**
+- TypeScript, JavaScript, React, React Native, Java, JavaFX, C++
 
-- ptros — TypeScript web application (carrier / platform project). Demo: https://ptros-carrier.vercel.app
-  https://github.com/Matela-cyber/ptros
+**Databases & Backend**
+- Firebase (Firestore, Realtime DB), PostgreSQL, MySQL, Node.js
 
-- laqs — JavaScript web app (deployed). Demo: https://laqs.vercel.app
-  https://github.com/Matela-cyber/laqs
+**Tools & Platforms**
+- Git & GitHub, Vercel, Android Studio, Firebase Console, Adobe Creative Suite
 
-- TechHub-Lesotho — Frontend web project for Tech Hub Lesotho (JavaScript). Live site: https://tech-hub-lesotho.vercel.app
-  https://github.com/Matela-cyber/TechHub-Lesotho
-
-- ptros-platform — Platform code (TypeScript). Repository set to private.
-  https://github.com/Matela-cyber/ptros-platform
-
-- resume — Personal/resume website (HTML/CSS)
-  https://github.com/Matela-cyber/resume
-
-- mfsloan — Web / interactive content (HTML + Prolog). See repo for details.
-  https://github.com/Matela-cyber/mfsloan
-
-- laqsform, unity-tour-malibaMatso-bridge, unity-tour-maliba-matso — Additional web/interactive work and demos
-  https://github.com/Matela-cyber/laqsform
-  https://github.com/Matela-cyber/unity-tour-malibaMatso-bridge
-  https://github.com/Matela-cyber/unity-tour-maliba-matso
+**Areas of Expertise**
+- Full-stack web development (React + TypeScript)
+- Cross-platform mobile apps (React Native)
+- UI/UX design and implementation
+- System design and architecture
+- Responsive web design
 
 ---
 
-## Past / Academic projects (archive)
+## ✨ Featured Projects
 
-These were created during learning and university years and are kept for reference:
+### 🌐 [ptros](https://github.com/Matela-cyber/ptros) — Carrier Platform
+**TypeScript | React | Firebase | Full-Stack**
 
-- JavaFX — Academic reporting system with role-based features
-  https://github.com/Matela-cyber/reporting-system
+A comprehensive carrier management platform built for production use. Features include real-time data synchronization, user authentication, and role-based access control.
 
-- Web (HTML/CSS/JS) — Calculator supporting BODMAS
-  https://github.com/Matela-cyber/calculator
-
-- Web — Electricity registration & billing system (Firebase)
-  https://github.com/Matela-cyber/electricity-registeration-and-billing-system
-
-- Web — KFC-tailored Point of Sale system
-  https://github.com/Matela-cyber/KFC-POS
-
-- React Native — Facebook-like learning project
-  https://github.com/Matela-cyber/facebookClone
-
-- C++ — School Management System (console + PostgreSQL)
-  https://github.com/Matela-cyber/School-Management-System
-
-- C++ — Book Store Management System (console + MySQL)
-  https://github.com/Matela-cyber/Book-store-system
+- **Live Demo:** https://ptros-carrier.vercel.app
+- **Tech Stack:** React, TypeScript, Firebase, Tailwind CSS
+- **Highlights:** Real-time updates, responsive design, secure authentication
 
 ---
 
-## Portfolio & contact
+### 📊 [laqs](https://github.com/Matela-cyber/laqs) — Data Management Application
+**JavaScript | React | Firebase**
 
-- LinkedIn: https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/
-- GitHub: https://github.com/Matela-cyber
-- Portfolio / Drive: https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT
-- WhatsApp: https://wa.me/26659510068
+A deployed web application for data management and visualization. Built with focus on clean UI and efficient data handling.
 
+- **Live Demo:** https://laqs.vercel.app
+- **Tech Stack:** React, JavaScript, Firebase
+- **Highlights:** Intuitive interface, data persistence, deployed on Vercel
+
+---
+
+### 🏢 [TechHub Lesotho](https://github.com/Matela-cyber/TechHub-Lesotho) — Community Tech Platform
+**JavaScript | React | Responsive Design**
+
+Frontend web application for a tech community initiative in Lesotho. Features a modern, accessible interface supporting both web and mobile experiences with native app distributions.
+
+- **Live Site:** https://tech-hub-lesotho.vercel.app
+- **Tech Stack:** React, JavaScript, Tailwind CSS, Responsive Design
+- **Platforms:** 
+  - 🌐 **Web** — Responsive web application
+  - 📱 **Mobile Web** — Optimized mobile experience
+  - 🤖 **Android APK** — Native Android application available
+- **Highlights:** Multi-platform support, community-focused design, accessibility-first approach
+
+---
+
+### 🔐 [ptros-platform](https://github.com/Matela-cyber/ptros-platform) — Backend Infrastructure
+**TypeScript | Node.js | Firebase**
+
+Core platform infrastructure and backend services. Repository set to private for security purposes.
+
+- **Tech Stack:** TypeScript, Node.js, Firebase, RESTful APIs
+- **Focus:** Scalable backend architecture, API development
+
+---
+
+### 📄 [resume](https://github.com/Matela-cyber/resume) — Personal Portfolio Site
+**HTML | CSS | Responsive Design**
+
+Clean, minimalist personal website showcasing professional information and project work.
+
+- **Tech Stack:** HTML5, CSS3, Semantic markup
+- **Highlights:** SEO optimized, fully responsive
+
+---
+
+### 💼 [Additional Projects](https://github.com/Matela-cyber?tab=repositories)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [mfsloan](https://github.com/Matela-cyber/mfsloan) | Interactive web content for loan management | HTML, CSS, JavaScript, Prolog |
+| [laqsform](https://github.com/Matela-cyber/laqsform) | Dynamic form application | JavaScript, React |
+| [unity-tour-maliba-matso-bridge](https://github.com/Matela-cyber/unity-tour-malibaMatso-bridge) | Interactive tour/demo application | JavaScript, React |
+| [unity-tour-maliba-matso](https://github.com/Matela-cyber/unity-tour-maliba-matso) | Tourism interactive content | JavaScript, React |
+
+---
+
+## 📚 Academic & Learning Projects
+
+These projects were created during my university years and represent my learning journey:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [reporting-system](https://github.com/Matela-cyber/reporting-system) | Academic reporting system with role-based features | JavaFX, PostgreSQL |
+| [calculator](https://github.com/Matela-cyber/calculator) | Web calculator with BODMAS support | HTML, CSS, JavaScript |
+| [electricity-registration-and-billing](https://github.com/Matela-cyber/electricity-registeration-and-billing-system) | Utility billing system | Firebase, JavaScript |
+| [KFC-POS](https://github.com/Matela-cyber/KFC-POS) | Point of Sale system | JavaScript, Firebase |
+| [facebook-clone](https://github.com/Matela-cyber/facebookClone) | Social network learning project | React Native, Firebase |
+| [school-management-system](https://github.com/Matela-cyber/School-Management-System) | Educational management system | C++, PostgreSQL, Console |
+| [book-store-system](https://github.com/Matela-cyber/Book-store-system) | Inventory management system | C++, MySQL, Console |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matela-cyber&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matela-cyber&layout=compact&theme=github_dark)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always interested in discussing new projects, opportunities, and ideas.
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/ |
+| 🐙 **GitHub** | https://github.com/Matela-cyber |
+| 🗂️ **Portfolio** | https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT |
+| 💬 **WhatsApp** | https://wa.me/26659510068 |
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Vicent Matela**
+
+*Last updated: July 2026*
+
+</div>
