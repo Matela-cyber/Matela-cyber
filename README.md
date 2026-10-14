@@ -1,227 +1,111 @@
-# 👋 Vicent Matela — Full-Stack Software Engineer
+# 👋 Vicent Matela — Full-Stack Developer
 
-> Building production-grade applications with modern tech stacks — from delivery logistics platforms to e-commerce ecosystems
+**React • TypeScript • Firebase • React Native**
 
-I'm a software engineer and recent graduate passionate about creating scalable, maintainable solutions. My focus is on full-stack development, cloud infrastructure, and thoughtful system design. Every project I build is production-ready with attention to performance, security, and user experience.
+I build clean, production-ready web and mobile applications.  
+Based in Lesotho. Available for freelance projects.
 
 ---
 
-## 🛠️ Technical Skills
+### What I can help you with
+- React / TypeScript frontends
+- Firebase (Auth, Firestore, Realtime DB, Cloud Functions)
+- Full-stack apps (React + Firebase)
+- Admin dashboards & internal tools
+- React Native mobile features
+- Bug fixes, feature additions, and deployment (Vercel / Firebase)
 
-**Languages & Frameworks**
-- TypeScript, JavaScript, React, React Native, Java, JavaFX, C++
+---
 
-**Databases & Backend**
-- Firebase (Firestore, Realtime DB, Cloud Functions), PostgreSQL, MySQL, Node.js
+## 🛠️ Tech Stack
 
-**Cloud & DevOps**
-- Vercel, Cloudflare Pages, Firebase Hosting, Google Cloud Platform, Turbo (monorepo orchestration)
+**Frontend**  
+TypeScript, JavaScript, React, React Native, Vite, Tailwind CSS, React Router
 
-**Tools & Libraries**
-- Git, Vite, Tailwind CSS, Leaflet/Google Maps API, React Router, pnpm workspaces
+**Backend & Cloud**  
+Firebase (Firestore, Realtime Database, Authentication, Cloud Functions), Node.js
 
-**Areas of Expertise**
-- Full-stack web development with TypeScript/React
-- Cross-platform mobile development (React Native)
-- Real-time systems and Firebase integration
-- System architecture and microservices
-- Responsive design and UI/UX implementation
-- Monorepo project management
+**Tools**  
+Git, pnpm, Turbo (monorepos), Vercel, Cloudflare Pages
 
 ---
 
 ## ✨ Featured Projects
 
-### 🚗 [PTROS](https://github.com/Matela-cyber/ptros) — Advanced Delivery & Logistics Platform
-**TypeScript | React 18 | Firebase | Monorepo (Turbo)**
+### 🚗 [PTROS](https://github.com/Matela-cyber/ptros) — Delivery & Logistics Platform
+**TypeScript • React 18 • Firebase • Turbo Monorepo**
 
-An enterprise-grade logistics management platform for carriers, dispatchers, and delivery personnel. Features real-time route optimization, live vehicle tracking, and intelligent dispatch systems.
+Full logistics platform with real-time tracking, route optimization, and carrier management.
 
-**Key Features:**
-- 🗺️ **Real-Time Map Visualization** — Live tracking with Leaflet & Google Maps integration
-- 📍 **Intelligent Route Optimization** — Advanced algorithms for optimal delivery sequencing
-- 🚗 **Carrier Management** — Vehicle profiles, performance metrics, comprehensive KPI tracking
-- ⚡ **Real-Time Updates** — Firebase Realtime Database for instant synchronization
-- 📊 **Analytics Dashboard** — Actionable insights into delivery metrics and efficiency
-- 🔐 **Enterprise Security** — Firebase security rules, Cloud Functions, multi-factor auth
+- Live map tracking (Leaflet + Google Maps)
+- Real-time updates with Firebase Realtime Database
+- Carrier & delivery management dashboards
+- Firebase Auth + security rules
+- Deployed on Vercel + Firebase
 
-**Technical Highlights:**
-- **Architecture:** Monorepo with Turbo orchestration, pnpm workspaces
-- **Frontend:** React 18.3 + TypeScript 5.9, Vite 5.4, Tailwind CSS 3.4
-- **Backend:** Firebase Cloud Functions (Node.js 20), Firestore, Realtime DB
-- **Mapping:** Leaflet 1.9, React Leaflet 4.2, Google Maps API
-- **Deployment:** Vercel (frontend), Firebase (backend)
-
-**Live Demo:** https://ptros-carrier.vercel.app  
-**Repository:** https://github.com/Matela-cyber/ptros
+**Live Demo:** [ptros-carrier.vercel.app](https://ptros-carrier.vercel.app)
 
 ---
 
-### 🏢 [TechHub Lesotho](https://github.com/Matela-cyber/TechHub-Lesotho) — Full-Stack E-Commerce Platform
-**React | JavaScript | Firebase | React Native | Multi-Platform**
+### 🛒 [TechHub Lesotho](https://github.com/Matela-cyber/TechHub-Lesotho) — E-Commerce Platform
+**React • Firebase • React Native**
 
-A complete e-commerce solution for electronics and gadgets with user storefront, admin dashboard, and native mobile applications. Demonstrates production-ready full-stack architecture.
+Complete e-commerce solution with storefront, admin panel, and mobile app.
 
-**Platform Coverage:**
-- 🌐 **Web Application** — Modern storefront built with React
-- 📱 **Mobile Web** — Fully responsive mobile experience
-- 🤖 **Android APK** — Native React Native mobile app ([Download APKs](https://drive.google.com/drive/folders/1grC08MoLRD3-xjCEHZeBdmF6A8qty4Pa))
-- ⚙️ **Admin Dashboard** — Separate admin panel for product & user management
+- Product catalog, cart, checkout & order tracking
+- Admin dashboard for products & orders
+- Firebase Authentication + Firestore
+- React Native Android app available
+- Deployed on Vercel
 
-**Core Features:**
-- **User Experience:** Product browsing, search, secure checkout, order tracking, wishlist management
-- **Admin Capabilities:** Product CRUD, inventory management, real-time sales dashboard, user moderation
-- **Authentication:** Email/password, OAuth (Google, GitHub), password recovery
-- **Payment & Notifications:** Secure payment processing, automated order confirmation emails via Resend
-- **Performance:** Lighthouse 85+, < 2s page load, mobile-first design
-
-**Technical Stack:**
-- **Frontend:** React.js (98.3%), CSS (1.2%), HTML (0.5%)
-- **Backend:** Firebase (Firestore, Authentication, Cloud Storage)
-- **Email Service:** Resend API with Cloudflare Functions
-- **State Management:** React Hooks + Context API
-- **Deployment:** Vercel (storefront & admin), Cloudflare Pages
-
-**Live Demo:** https://tech-hub-lesotho.vercel.app  
-**Admin Panel:** https://tech-hub-lesotho-admin.vercel.app  
-**Mobile:** https://drive.google.com/drive/folders/1grC08MoLRD3-xjCEHZeBdmF6A8qty4Pa  
-**Repository:** https://github.com/Matela-cyber/TechHub-Lesotho
+**Live Demo:** [tech-hub-lesotho.vercel.app](https://tech-hub-lesotho.vercel.app)  
+**Admin:** [tech-hub-lesotho-admin.vercel.app](https://tech-hub-lesotho-admin.vercel.app)
 
 ---
 
-### 📊 [LAQS](https://github.com/Matela-cyber/laqs) — Professional Association Portal Prototype
-**React | JavaScript | Firebase | Vite**
+### 📊 [LAQS](https://github.com/Matela-cyber/laqs) — Professional Membership Portal
+**React • Vite • Firebase**
 
-A modern membership portal prototype for the Lesotho Association of Architects and Quantity Surveyors. Showcases professional application architecture with membership workflows and professional resource management.
+Membership portal prototype for a professional association (Lesotho Association of Architects and Quantity Surveyors).
 
-**Core Features:**
-- 👥 **Membership Management** — Application flows, member sign-in, dashboard experience
-- 📚 **CPD & Training** — Continuing Professional Development tracking
-- 💼 **Job Opportunities** — Professional job listings and career resources
-- 📋 **Member Profiles** — Professional profile customization and tracking
-- 🎨 **Branded UI** — Clean, professional design aligned to organizational identity
-- 📱 **Responsive Design** — Optimized for desktop, tablet, and mobile
+- Member registration & dashboard
+- CPD / training tracking
+- Job listings & member profiles
+- Clean responsive UI
 
-**Technical Stack:**
-- **Frontend Framework:** React with Vite build tool
-- **Styling:** Responsive design with modern CSS
-- **Backend:** Firebase (Firestore database, Authentication)
-- **Components:** React Router, React Icons, React Hot Toast
-- **State Management:** React Hooks + Context API
-
-**Live Demo:** https://laqs.vercel.app  
-**Repository:** https://github.com/Matela-cyber/laqs
+**Live Demo:** [laqs.vercel.app](https://laqs.vercel.app)
 
 ---
 
-### 🤖 [MFSLoan](https://github.com/Matela-cyber/mfsloan) — AI-Powered Loan Processing System
-**Prolog | HTML/CSS | AI Logic Programming**
+### 🤖 [Trading Bot](https://github.com/Matela-cyber/bot) — Automated MT5 System
+**Python • MetaTrader 5**
 
-An intelligent system combining Prolog logic programming with a web-based interface for loan processing and analysis. Demonstrates knowledge representation and rule-based expert systems.
-
-**Highlights:**
-- 🧠 **Logic-Based Reasoning** — Prolog rule engine for intelligent decision-making
-- 💡 **Expert System** — AI-driven loan qualification and analysis
-- 🌐 **Web Interface** — HTML frontend for system interaction
-- 📚 **Knowledge Representation** — Advanced symbolic AI implementation
-
-**Technical Stack:**
-- **AI Engine:** Prolog (SWI-Prolog compatible)
-- **Frontend:** HTML, CSS
-- **Architecture:** Symbolic AI with web UI integration
-
-**Course Context:** Developed as an AI class project, demonstrating knowledge representation, expert systems, and symbolic AI integration.
-
-**Repository:** https://github.com/Matela-cyber/mfsloan
+Mean-reversion trading bot with risk management, session filters, and Telegram notifications. Built for research and controlled testing.
 
 ---
 
-### 📝 Additional Projects
+## 📌 Other Projects
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| [laqsform](https://github.com/Matela-cyber/laqsform) | Dynamic form application for data collection | React, JavaScript, Firebase | Active |
-| [ptros-platform](https://github.com/Matela-cyber/ptros-platform) | Platform backend infrastructure & services | TypeScript, Node.js, Firebase | Private |
-| [resume](https://github.com/Matela-cyber/resume) | Personal portfolio website | HTML5, CSS3 | Live |
-| [unity-tour-maliba-matso-bridge](https://github.com/Matela-cyber/unity-tour-malibaMatso-bridge) | Interactive tourism platform | React, JavaScript | Demo |
-| [unity-tour-maliba-matso](https://github.com/Matela-cyber/unity-tour-maliba-matso) | Complementary tour application | React, JavaScript | Demo |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [TechHub-Lesotho-Mobile](https://github.com/Matela-cyber/TechHub-Lesotho-Mobile) | React Native mobile app for TechHub | React Native, Firebase |
+| [unity-tour-maliba-matso](https://github.com/Matela-cyber/unity-tour-maliba-matso) | Interactive tourism experience | React, JavaScript |
+| [resume](https://github.com/Matela-cyber/resume) | Personal portfolio site | HTML, CSS |
 
 ---
 
-## 📚 Academic & Learning Projects
+## 📬 Let’s Work Together
 
-These projects represent my learning journey through university coursework and skill development:
+I’m open to freelance work — small features, bug fixes, full projects, or ongoing support.
 
-| Project | Description | Tech | Focus |
-|---------|-------------|------|-------|
-| [reporting-system](https://github.com/Matela-cyber/reporting-system) | Academic reporting system with role-based access control | JavaFX, PostgreSQL | Desktop UI, RBAC |
-| [calculator](https://github.com/Matela-cyber/calculator) | Scientific calculator with BODMAS operator precedence | HTML, CSS, JavaScript | Algorithm design |
-| [electricity-registration-and-billing](https://github.com/Matela-cyber/electricity-registeration-and-billing-system) | Utility billing system with real-time calculations | Firebase, JavaScript | Database design |
-| [KFC-POS](https://github.com/Matela-cyber/KFC-POS) | Point of Sale system for quick-service restaurants | JavaScript, Firebase | Transaction handling |
-| [facebook-clone](https://github.com/Matela-cyber/facebookClone) | Social network learning project with messaging | React Native, Firebase | Mobile development |
-| [school-management-system](https://github.com/Matela-cyber/School-Management-System) | Comprehensive school administration platform | C++, PostgreSQL, Console | Database design, OOP |
-| [book-store-system](https://github.com/Matela-cyber/Book-store-system) | Inventory management for bookstore operations | C++, MySQL, Console | Inventory systems |
-
----
-
-## 📊 My Approach
-
-**Production-First Mindset**
-- Every project is built with scalability and maintainability in mind
-- Comprehensive documentation and clear code structure
-- Performance optimization from the ground up
-
-**Modern Tech Stack**
-- Leveraging TypeScript for type safety
-- Cloud-native architectures (Firebase, Vercel, Cloudflare)
-- Real-time synchronization for responsive UX
-- Monorepo patterns for larger projects
-
-**User-Centric Design**
-- Mobile-first responsive design
-- Accessibility considerations
-- Performance metrics as quality indicators
-- Intuitive interfaces with thoughtful UX
-
----
-
-## 📈 Project Showcase
-
-```
-Full-Stack Architecture Examples:
-├── Frontend: React/TypeScript → Responsive SPA
-├── Backend: Firebase Cloud Functions → Serverless logic
-├── Database: Firestore/Realtime DB → Real-time sync
-├── Deployment: Vercel/Cloudflare → Global CDN
-└── Mobile: React Native → iOS/Android APKs
-```
-
-**Recent Focus Areas:**
-- Advanced TypeScript patterns and type inference
-- Firebase real-time systems and Firestore queries
-- Route optimization algorithms
-- Monorepo project orchestration with Turbo
-- Multi-platform deployment strategies
-
----
-
-## 📬 Connect With Me
-
-I'm always interested in discussing innovative projects, technical challenges, and opportunities to create impactful software.
-
-| Platform | Link |
-|----------|------|
-| 💼 **LinkedIn** | https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/ |
-| 🐙 **GitHub** | https://github.com/Matela-cyber |
-| 🗂️ **Portfolio** | https://drive.google.com/drive/folders/1kD2PXE5uyQOGNGutEevxNyfl5rKFZmaT |
-| 💬 **WhatsApp** | https://wa.me/26659510068 |
+- **LinkedIn:** [teboho-vicent-matela](https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/)
+- **WhatsApp:** [+266 5951 0068](https://wa.me/26659510068)
+- **GitHub:** [Matela-cyber](https://github.com/Matela-cyber)
 
 ---
 
 <div align="center">
-
-**Made with ❤️ by Vicent Matela**
-
-*Building scalable solutions that matter*
+  
+**Available for freelance projects**
 
 </div>
