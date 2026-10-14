@@ -106,6 +106,7 @@ Strong coursework in Software Design, Java & C++ Programming, Databases, Data St
 
 Open to full-time opportunities, internships, and freelance projects.
 
+- **Email:** [tebohovmatela@gmail.com](mailto:tebohovmatela@gmail.com)
 - **LinkedIn:** [teboho-vicent-matela](https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/)
 - **WhatsApp:** [+266 5951 0068](https://wa.me/26659510068)
 - **GitHub:** [Matela-cyber](https://github.com/Matela-cyber)
