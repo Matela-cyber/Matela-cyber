@@ -3,7 +3,7 @@
 **BSc Software Engineering with Multimedia**  
 Limkokwing University of Creative Technolog
 
-Full-stack developer and multimedia graduate with experience building web platforms, mobile apps, desktop applications, and interactive systems. Comfortable across modern web technologies, Java/C++, databases, and creative digital production.
+Software engineering and multimedia graduate with experience building web platforms, mobile apps, desktop applications, and interactive systems. Comfortable across modern web technologies, Java/C++, databases, and creative digital production.
 
 ---
 
