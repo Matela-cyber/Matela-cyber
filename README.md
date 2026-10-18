@@ -106,7 +106,7 @@ Strong coursework in Software Design, Java & C++ Programming, Databases, Data St
 
 Open to full-time opportunities, internships, and freelance projects.
 
-- **Portfolio:** [matela-cyber.github.io/my-portfolio](https://matela-cyber.github.io/my-portfolio/)
+- **Portfolio:** [Please View Portfolio](https://matela-cyber.github.io/my-portfolio/)
 - **Resume:** [View Resume](https://matela-cyber.github.io/resume/)
 - **Email:** [tebohovmatela@gmail.com](mailto:tebohovmatela@gmail.com)
 - **LinkedIn:** [teboho-vicent-matela](https://www.linkedin.com/in/teboho-vicent-matela-527a9a284/)
